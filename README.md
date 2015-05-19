@@ -1,6 +1,6 @@
 # ReactNativeTransportApp
 This app is a prototype for a Transoporation company for its customers.
-It has below set of features 
+It has below set of features   
 
  1)2D Mobile Ticket
  2)My Trips
