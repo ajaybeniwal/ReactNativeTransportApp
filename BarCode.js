@@ -83,7 +83,7 @@ class BarCode extends Component {
             source={{uri: 'https://chart.googleapis.com/chart?cht=qr&chl=9871116244&choe=UTF-8&chs=200x200'}}/>
             <View style={styles.passInformation}>
             <Text style={ styles.passName}>
-            Acme-10 Day Pass
+            Bus-10 Day Pass
             </Text>
             <View style={ styles.passRiders}>
             <Text style={ styles.passRideText}>Rides</Text>
