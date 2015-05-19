@@ -1,0 +1,7 @@
+[
+{start:'May13',end:'June13',color:'red',invoiceid:'A12347878',paid:'N'},
+{start:'May13',end:'June13',color:'green',invoiceid:'A123478781212',paid:'Y'},
+{start:'May13',end:'June13',color:'pink',invoiceid:'A1234787812',paid:'Y'},
+{start:'May13',end:'June13',color:'blue',invoiceid:'A123478712',paid:'Y'},
+{start:'May13',end:'June13',color:'cyan',invoiceid:'A12347879',paid:'N'},
+]
