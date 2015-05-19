@@ -12,6 +12,16 @@ This app is a prototype for a Transoporation company for its customers.
 My Trips and Invoice History is harcoded inside the Json files present in mocks folder
 
 
+## Contributing
 
+1. Fork the project.
+2. Create a branch for your new feature.
+3. Submit a pull request.
+
+All pull requests are welcome !
+
+## License
+
+ReactNativeTransportApp uses the MIT license.
 
   
