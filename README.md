@@ -20,6 +20,8 @@ My Trips and Invoice History is harcoded inside the Json files present in mocks 
 
 All pull requests are welcome !
 
+![Demo gif](https://raw.githubusercontent.com/ajaybeniwal/ReactNativeTransportApp/master/output_Z1XsO8.gif)
+
 ## License
 
 ReactNativeTransportApp uses the MIT license.
